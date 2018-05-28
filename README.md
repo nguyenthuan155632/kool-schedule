@@ -1,0 +1,2 @@
+# kool-schedule
+GitHub Pages
